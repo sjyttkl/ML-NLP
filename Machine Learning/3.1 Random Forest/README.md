@@ -93,6 +93,14 @@ bagging方法中Bootstrap每次约有1/3的样本不会出现在Bootstrap所采�
 
    答：该模型过度拟合，因此，为了避免这些情况，我们要用交叉验证来调整树的数量。
 
+## 7. 推荐参考博客
+
++ https://www.cnblogs.com/amberdata/p/7203632.html
++ https://www.cnblogs.com/jasonfreak/p/5720137.html
++ https://www.cnblogs.com/jasonfreak/p/5657196.html
+
+
+
 ## 7. 代码实现
 
 GitHub：[https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/3.1%20Random%20Forest/RandomForestRegression.ipynb](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/3.1%20Random%20Forest/RandomForestRegression.ipynb)
